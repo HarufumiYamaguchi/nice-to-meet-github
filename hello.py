@@ -1,2 +1,3 @@
 print("Hello, GitHub!")
-print("これは、更新のテストです")
+name = input("お名前は? ")
+print(f"こんにちは、{name}さん！")
